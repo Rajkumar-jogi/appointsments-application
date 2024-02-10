@@ -1,0 +1,34 @@
+.item-container {
+  list-style: none;
+  padding: 10px;
+  border: 1px solid #9897f0;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.title-contianer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.booked-title {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #171f46;
+  border: none;
+}
+
+.star-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.booked-date {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #171f46;
+  border: none;
+}
